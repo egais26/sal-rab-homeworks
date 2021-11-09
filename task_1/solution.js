@@ -14,6 +14,10 @@ function addInCartMessage(title, price) {
     // добавьте в конец переменной message текст 'теперь в корзине!'
     // выведите переменную message в консоль
 
+    // присвойте ей значение oldValue
+    // присвойте ей значение oldValue
+    // присвойте ей значение oldValue
+
     // Конец решения задания №1.1.
 
     return message;
